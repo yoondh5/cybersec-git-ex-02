@@ -17,6 +17,9 @@
 5. 각 버전별 태그와 릴리스 노트를 작성하세요
 6. 제출 기한까지 Pull Request를 생성하여 제출하세요
 
+## 수업 자료
+[4주차 수업 자료](https://gamma.app/docs/Git--msuglst588e6fed)
+
 ## 저장소 구조
 ```
 SecurityDocs/                     # 보안 문서 저장소
